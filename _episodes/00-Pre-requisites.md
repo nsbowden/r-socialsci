@@ -20,7 +20,7 @@ keypoints:
 
 ## R and RStudio
 
-R is an open source programming language originally designed and implemented by statisticians primarily for statistical analysis. It includes high quality graphics capabilities and tools for basic data analysis and reading and writing data to/from files.
+R is an open source programming language originally designed and implemented by statisticians primarily for statistical analysis. It includes high quality graphics capabilities, tools for basic data analysis and reading and writing data to/from files.
 Because R is open source and is supported by a large community of developers and users there is a very large selection of 3rd party add-on libraries available which are freely available and can easily be added to the core R system making even more analysis techniques readily available.  
 R is a scripted language. Rather than pointing and clicking in a GUI environment you actual write code statements to ask R to do something for you. This has the advantage of providing a permanent record of what was done and allows for peer review of the work undertaken.
 Having this written record, something which is increasingly required as part of a publication submission, is also an aid when seeking help with problems. 
